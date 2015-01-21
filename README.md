@@ -10,3 +10,6 @@ jQuery plugin to help users navigate easily. Turns a `ul` or `ol` of links into 
 * `search_show_keycode` Keycode of the key to toggle search box. Default: `46` '.'
 * `search_hide_keycode` Keycode of the key to hide searchbox. Default: `27` 'esc'
 * `list_max_count` Maximum number of links to show in the results.
+
+## Credits
+Design by [Rahul M. Hareendran](http://www.rahulmax.com/experiments/2014/03/27/admin-task-search/)
